@@ -112,7 +112,7 @@ Heroku URL: https://the-fair-fare.herokuapp.com/
 
 ## Credits
 
-Sophie Lebron&emsp;&emsp;&emsp;github.com/sclebron&emsp;&emsp;&emsp;&emsp;&emsp;sophieclebron@gmail.com
+Sophie LeBron&emsp;&emsp;&emsp;github.com/sclebron&emsp;&emsp;&emsp;&emsp;&emsp;sophieclebron@gmail.com
 <br/>
 Thomas Boileau&nbsp;&emsp;&emsp;github.com/tommybspeed&nbsp;&emsp;&emsp;TommyBspeed@gmail.com
 <br/>
