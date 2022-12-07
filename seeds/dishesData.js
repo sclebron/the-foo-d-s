@@ -25,42 +25,42 @@ const dishesData = [
   {
     price: 19.0,
     name: "Ramen",
-    image_file: "asian-food-1.jpg",
+    image_file: "asian-food-4.jpg",
     description: "Chicken ramen with vegetables.",
     restaurant_id: 2,
   },
   {
     price: 18.0,
     name: "Pho",
-    image_file: "asian-food-2.jpg",
+    image_file: "asian-food-5.jpg",
     description: "Vietnamese noodle soup.",
     restaurant_id: 2,
   },
   {
     price: 38,
     name: "Sushi Platter",
-    image_file: "asian-food-3.jpg",
+    image_file: "asian-food-6.jpg",
     description: "Chef's selection of sushi.",
     restaurant_id: 2,
   },
   {
     price: 15.0,
     name: "Ramen",
-    image_file: "asian-food-1.jpg",
+    image_file: "asian-food-7.jpg",
     description: "Chicken ramen with vegetables.",
     restaurant_id: 3,
   },
   {
     price: 16.0,
     name: "Pho",
-    image_file: "asian-food-2.jpg",
+    image_file: "asian-food-8.jpg",
     description: "Vietnamese noodle soup.",
     restaurant_id: 3,
   },
   {
     price: 40.0,
     name: "Sushi Platter",
-    image_file: "asian-food-3.jpg",
+    image_file: "asian-food-9.jpg",
     description: "Chef's selection of sushi.",
     restaurant_id: 3,
   },
@@ -89,7 +89,7 @@ const dishesData = [
   {
     price: 13.0,
     name: "Watermelon Heirloom Cherry Tomato Salad",
-    image_file: "american-food-1.jpg",
+    image_file: "american-food-4.jpg",
     description:
       "Cucumber, Red Onion, Cotija, Mint, Chili-SUmac, Reduced Balsamic",
     restaurant_id: 5,
@@ -97,14 +97,14 @@ const dishesData = [
   {
     price: 17.0,
     name: "Albacore Tuna Melt",
-    image_file: "american-food-2.jpg",
+    image_file: "american-food-5.jpg",
     description: "Sourdough, Fennel Capers, Red Onion, Tomato, Cheddar",
     restaurant_id: 5,
   },
   {
     price: 32.0,
     name: "Sicilian Swordfish Steak",
-    image_file: "american-food-3.jpg",
+    image_file: "american-food-6.jpg",
     description:
       "Israeli Couscous, Black Olives, Capers, Preserved Lemon, Pine Nuts, Sultanas, Mint",
     restaurant_id: 5,
@@ -112,14 +112,14 @@ const dishesData = [
   {
     price: 13.0,
     name: "Meat Calzone",
-    image_file: "american-food-1.jpg",
+    image_file: "american-food-7.jpg",
     description: "Pepperoni, Canadian Bacon, Mozzarella/Provolone & Marinara",
     restaurant_id: 6,
   },
   {
     price: 16.0,
     name: "Crispy Chicken Salad",
-    image_file: "american-food-2.jpg",
+    image_file: "american-food-8.jpg",
     description:
       "Iceberg, Crispy Chicken, Pico de Gallo, Corn, Cheddar Cheese, Avocado, Tortilla Strips & Chipotle Dressing",
     restaurant_id: 6,
@@ -127,7 +127,7 @@ const dishesData = [
   {
     price: 20.0,
     name: "Pepperoni Meat'Za",
-    image_file: "american-food-3.jpg",
+    image_file: "american-food-9.jpg",
     description: "Pepperoni & Marinara",
     restaurant_id: 6,
   },
@@ -155,7 +155,7 @@ const dishesData = [
   {
     price: 13.0,
     name: "Watermelon Heirloom Cherry Tomato Salad",
-    image_file: "mexican-food-1.jpg",
+    image_file: "mexican-food-4.jpg",
     description:
       "Cucumber, Red Onion, Cotija, Mint, Chili-SUmac, Reduced Balsamic",
     restaurant_id: 8,
@@ -163,14 +163,14 @@ const dishesData = [
   {
     price: 17.0,
     name: "Albacore Tuna Melt",
-    image_file: "mexican-food-2.jpg",
+    image_file: "mexican-food-5.jpg",
     description: "Sourdough, Fennel Capers, Red Onion, Tomato, Cheddar",
     restaurant_id: 8,
   },
   {
     price: 32.0,
     name: "Sicilian Swordfish Steak",
-    image_file: "mexican-food-3.jpg",
+    image_file: "mexican-food-6.jpg",
     description:
       "Israeli Couscous, Black Olives, Capers, Preserved Lemon, Pine Nuts, Sultanas, Mint",
     restaurant_id: 8,
@@ -178,14 +178,14 @@ const dishesData = [
   {
     price: 13.0,
     name: "Meat Calzone",
-    image_file: "mexican-food-1.jpg",
+    image_file: "mexican-food-7.jpg",
     description: "Pepperoni, Canadian Bacon, Mozzarella/Provolone & Marinara",
     restaurant_id: 9,
   },
   {
     price: 16.0,
     name: "Crispy Chicken Salad",
-    image_file: "mexican-food-2.jpg",
+    image_file: "mexican-food-8.jpg",
     description:
       "Iceberg, Crispy Chicken, Pico de Gallo, Corn, Cheddar Cheese, Avocado, Tortilla Strips & Chipotle Dressing",
     restaurant_id: 9,
@@ -193,7 +193,7 @@ const dishesData = [
   {
     price: 20.0,
     name: "Pepperoni Meat'Za",
-    image_file: "mexican-food-3.jpg",
+    image_file: "mexican-food-9.jpg",
     description: "Pepperoni & Marinara",
     restaurant_id: 9,
   },
@@ -223,7 +223,7 @@ const dishesData = [
   {
     price: 13.0,
     name: "Watermelon Heirloom Cherry Tomato Salad",
-    image_file: "italian-food-1.jpg",
+    image_file: "italian-food-4.jpg",
     description:
       "Cucumber, Red Onion, Cotija, Mint, Chili-Sumac, Reduced Balsamic",
     restaurant_id: 11,
@@ -231,14 +231,14 @@ const dishesData = [
   {
     price: 17.0,
     name: "Albacore Tuna Melt",
-    image_file: "italian-food-2.jpg",
+    image_file: "italian-food-5.jpg",
     description: "Sourdough, Fennel Capers, Red Onion, Tomato, Cheddar",
     restaurant_id: 11,
   },
   {
     price: 32.0,
     name: "Sicilian Swordfish Steak",
-    image_file: "italian-food-3.jpg",
+    image_file: "italian-food-6.jpg",
     description:
       "Israeli Couscous, Black Olives, Capers, Preserved Lemon, Pine Nuts, Sultanas, Mint",
     restaurant_id: 11,
@@ -246,7 +246,7 @@ const dishesData = [
   {
     price: 13.0,
     name: "Garlic Knots",
-    image_file: "italian-food-1.jpg",
+    image_file: "italian-food-7.jpg",
     description:
       "Our world-famous dough, knotted and drizzled in garlic-infused extra-virgin olive oil.",
     restaurant_id: 12,
@@ -254,14 +254,14 @@ const dishesData = [
   {
     price: 16.0,
     name: "3-Cheese Pizza",
-    image_file: "italian-food-2.jpg",
+    image_file: "italian-food-8.jpg",
     description: "Mozarella, Provalone & Parmasean",
     restaurant_id: 12,
   },
   {
     price: 20.0,
     name: "Pepperoni Pizza",
-    image_file: "italian-food-3.jpg",
+    image_file: "italian-food-9.jpg",
     description: "Pepperoni, Mozarella & Marinara",
     restaurant_id: 12,
   },
