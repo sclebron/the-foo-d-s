@@ -11,14 +11,14 @@ const dishesData = [
   {
     price: 15.0,
     name: "Pho",
-    image_file: "asian-food-2.jpg",
+    image_file: "pho.jpg",
     description: "Vietnamese noodle soup.",
     restaurant_id: 1,
   },
   {
     price: 35.0,
     name: "Sushi Platter",
-    image_file: "asian-food-3.jpg",
+    image_file: "sushi-platter.jpg",
     description: "Chef's selection of sushi.",
     restaurant_id: 1,
   },
