@@ -37,10 +37,10 @@ const dishesData = [
     restaurant_id: 2,
   },
   {
-    price: 38,
-    name: "Sushi Platter",
-    image_file: "asian-food-6.jpg",
-    description: "Chef's selection of sushi.",
+    price: 8.00,
+    name: "Pork Dumplings",
+    image_file: "pork-dumplings.jpg",
+    description: "Includes 3 dumplings.",
     restaurant_id: 2,
   },
   {
