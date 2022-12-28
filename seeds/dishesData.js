@@ -4,7 +4,7 @@ const dishesData = [
   {
     price: 16.0,
     name: "Ramen",
-    image_file: "asian-food-1.jpg",
+    image_file: "ramen.jpg",
     description: "Chicken ramen with vegetables.",
     restaurant_id: 1,
   },
