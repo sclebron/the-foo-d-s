@@ -94,18 +94,17 @@ const dishesData = [
     restaurant_id: 5,
   },
   {
-    price: 17.0,
-    name: "Albacore Tuna Melt",
-    image_file: "american-food-5.jpg",
-    description: "Sourdough, Fennel Capers, Red Onion, Tomato, Cheddar",
+    price: 16.0,
+    name: "Grilled Chicken Sandwich",
+    image_file: "grilled-chicken-sandwich.jpg",
+    description: "Grilled chicken, lettuce, tomato, onion, and honey mustard on a brioche bun.",
     restaurant_id: 5,
   },
   {
-    price: 32.0,
-    name: "Sicilian Swordfish Steak",
-    image_file: "american-food-6.jpg",
-    description:
-      "Israeli Couscous, Black Olives, Capers, Preserved Lemon, Pine Nuts, Sultanas, Mint",
+    price: 10.0,
+    name: "Chicken Nachoes",
+    image_file: "chicken-nachos.jpg",
+    description: "Chicken, melted cheese, sour cream, tomatoes, and guacamole over tortilla chips.",
     restaurant_id: 5,
   },
   {
