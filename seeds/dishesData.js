@@ -81,17 +81,16 @@ const dishesData = [
   },
   {
     price: 13.0,
-    name: "Chicken & Pesto Sandwich",
-    image_file: "american-food-3.jpg",
-    description: "Basil Pesto, Mozzarella, Sweet Peppers",
+    name: "Grilled Cheese",
+    image_file: "grilled-cheese.jpg",
+    description: "Grilled cheese sandwich with a side of fries.",
     restaurant_id: 4,
   },
   {
     price: 13.0,
-    name: "Watermelon Heirloom Cherry Tomato Salad",
-    image_file: "american-food-4.jpg",
-    description:
-      "Cucumber, Red Onion, Cotija, Mint, Chili-SUmac, Reduced Balsamic",
+    name: "Cobb Salad",
+    image_file: "cobb-salad.jpg",
+    description: "Lettuce, tomato, hard boiled egg, bacon, grilled chicken, and bleu cheese.",
     restaurant_id: 5,
   },
   {
