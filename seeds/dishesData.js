@@ -102,7 +102,7 @@ const dishesData = [
   },
   {
     price: 10.0,
-    name: "Chicken Nachoes",
+    name: "Chicken Nachos",
     image_file: "chicken-nachos.jpg",
     description: "Chicken, melted cheese, sour cream, tomatoes, and guacamole over tortilla chips.",
     restaurant_id: 5,
