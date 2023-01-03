@@ -69,14 +69,14 @@ const dishesData = [
     name: "Bacon Cheeseburger",
     image_file: "bacon-cheeseburger.jpg",
     description:
-      "Two 1/4lb beef patties, Bacon, Tomato, Cheddar,Spicy Aioli, Challah Bun",
+      "Two 1/4lb beef patties, bacon, tomato, cheddar, spicy aioli, challah bun.",
     restaurant_id: 4,
   },
   {
-    price: 15.0,
-    name: "Meatball Sandwich",
-    image_file: "american-food-2.jpg",
-    description: "Tomato Braised Meatballs, Pesto, Mozzarella",
+    price: 12.0,
+    name: "BLT",
+    image_file: "blt.jpg",
+    description: "Sandwich with bacon, lettuce, tomato, and mayo.",
     restaurant_id: 4,
   },
   {
