@@ -67,7 +67,7 @@ const dishesData = [
   {
     price: 14.0,
     name: "Bacon Cheeseburger",
-    image_file: "american-food-1.jpg",
+    image_file: "bacon-cheeseburger.jpg",
     description:
       "Two 1/4lb beef patties, Bacon, Tomato, Cheddar,Spicy Aioli, Challah Bun",
     restaurant_id: 4,
