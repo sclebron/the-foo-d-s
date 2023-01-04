@@ -108,10 +108,10 @@ const dishesData = [
     restaurant_id: 5,
   },
   {
-    price: 13.0,
-    name: "Meat Calzone",
-    image_file: "american-food-7.jpg",
-    description: "Pepperoni, Canadian Bacon, Mozzarella/Provolone & Marinara",
+    price: 11.0,
+    name: "Breakfast Sandwich",
+    image_file: "breakfast-sandwich.jpg",
+    description: "Eggs, bacon, and cheese on a bagel.",
     restaurant_id: 6,
   },
   {
