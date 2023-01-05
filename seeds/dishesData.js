@@ -164,11 +164,10 @@ const dishesData = [
     restaurant_id: 8,
   },
   {
-    price: 32.0,
-    name: "Sicilian Swordfish Steak",
-    image_file: "mexican-food-6.jpg",
-    description:
-      "Israeli Couscous, Black Olives, Capers, Preserved Lemon, Pine Nuts, Sultanas, Mint",
+    price: 12.0,
+    name: "Fish Tacos",
+    image_file: "fish-tacos.jpg",
+    description: "Includes 3 tacos with grilled cod wtih lettuce, tomatoes, beans, and pico de gallo.",
     restaurant_id: 8,
   },
   {
