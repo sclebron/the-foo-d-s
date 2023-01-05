@@ -115,18 +115,17 @@ const dishesData = [
     restaurant_id: 6,
   },
   {
-    price: 16.0,
-    name: "Crispy Chicken Salad",
-    image_file: "american-food-8.jpg",
-    description:
-      "Iceberg, Crispy Chicken, Pico de Gallo, Corn, Cheddar Cheese, Avocado, Tortilla Strips & Chipotle Dressing",
+    price: 12.0,
+    name: "Chicken Tenders",
+    image_file: "chicken-tenders.jpg",
+    description: "Fried chicken tenders with a side of fries.",
     restaurant_id: 6,
   },
   {
-    price: 20.0,
-    name: "Pepperoni Meat'Za",
-    image_file: "american-food-9.jpg",
-    description: "Pepperoni & Marinara",
+    price: 10.0,
+    name: "Lemon Pepper Wings",
+    image_file: "lemon-pepper-wings.jpg",
+    description: "10 Chicken wings in lemon pepper seasoning.",
     restaurant_id: 6,
   },
   {
