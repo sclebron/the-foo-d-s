@@ -192,26 +192,24 @@ const dishesData = [
     restaurant_id: 9,
   },
   {
-    price: 16.0,
-    name: "Bison Burger",
-    image_file: "italian-food-1.jpg",
-    description:
-      "1/2 lb Bison patty, gouda, crispy onions, and mesquite bbq sauce.",
+    price: 3.0,
+    name: "Cheese Pizza ",
+    image_file: "cheese-pizza.jpg",
+    description: "One slice of cheese pizza.",
     restaurant_id: 10,
   },
   {
-    price: 12,
-    name: "Chicken Tenders",
-    image_file: "italian-food-2.jpg",
-    description: "Best chicken tenders in the West!",
+    price: 3.0,
+    name: "Pepperoni Pizza",
+    image_file: "pepperoni-pizza.jpg",
+    description: "One slice of pepperoni pizza.",
     restaurant_id: 10,
   },
   {
-    price: 13.0,
-    name: "BLT",
-    image_file: "italian-food-3.jpg",
-    description:
-      "Thick-cut bacon, heirloom tomato, butter lettuce on a ciabatta with garlic aioli.",
+    price: 3.0,
+    name: "Veggie Pizza",
+    image_file: "veggie-pizza.jpg",
+    description: "One slice of pizza with mushroom, peppers, and olives.",
     restaurant_id: 10,
   },
   {
