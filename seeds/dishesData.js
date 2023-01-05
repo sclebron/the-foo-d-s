@@ -215,24 +215,22 @@ const dishesData = [
   {
     price: 13.0,
     name: "Penne Alla Vodka",
-    image_file: "italian-food-4.jpg",
-    description:
-      "Cucumber, Red Onion, Cotija, Mint, Chili-Sumac, Reduced Balsamic",
+    image_file: "penne.jpg",
+    description: "Penne in vodka sauce.",
     restaurant_id: 11,
   },
   {
     price: 17.0,
-    name: "Albacore Tuna Melt",
-    image_file: "italian-food-5.jpg",
-    description: "Sourdough, Fennel Capers, Red Onion, Tomato, Cheddar",
+    name: "Chicken Parmesan",
+    image_file: "chicken-parmesan.jpg",
+    description: "Breaded chicken with tomato sauce and mozzarella cheese served with spaghetti.",
     restaurant_id: 11,
   },
   {
-    price: 32.0,
-    name: "Sicilian Swordfish Steak",
-    image_file: "italian-food-6.jpg",
-    description:
-      "Israeli Couscous, Black Olives, Capers, Preserved Lemon, Pine Nuts, Sultanas, Mint",
+    price: 17.0,
+    name: "Cheese pizza",
+    image_file: "cheese-pizza-2.jpg",
+    description: "16in cheese pizza.",
     restaurant_id: 11,
   },
   {
