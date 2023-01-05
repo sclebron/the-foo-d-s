@@ -2,7 +2,7 @@ const { Restaurants } = require("../models");
 
 const restaurantsData = [
   {
-    name: "Spicy Asia",
+    name: "Chopstix",
     type_id: 1,
   },
   {
@@ -14,7 +14,7 @@ const restaurantsData = [
     type_id: 1,
   },
   {
-    name: "Joe's Place",
+    name: "Next Door",
     type_id: 2,
   },
   {
@@ -34,11 +34,11 @@ const restaurantsData = [
     type_id: 3,
   },
   {
-    name: "Abuelitas Mexican Grill",
+    name: "Abuelita's Mexican Grill",
     type_id: 3,
   },
   {
-    name: "Incredible Italian",
+    name: "Joe's Pizza",
     type_id: 4,
   },
   {
@@ -46,7 +46,7 @@ const restaurantsData = [
     type_id: 4,
   },
   {
-    name: "Cindy's Cafe",
+    name: "Panzano",
     type_id: 4,
   },
 ];

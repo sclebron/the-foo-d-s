@@ -39,25 +39,25 @@ const dishReviewsData = [
   },
   {
     rating: 5,
-    review: "This is the bomb!",
+    review: "Amazing!",
     dish_id: 7,
     user_id: null,
   },
   {
     rating: 5,
-    review: "Such a good salad!",
+    review: "Incredible!",
     dish_id: 8,
     user_id: null,
   },
   {
     rating: 2,
-    review: "Amazing!",
+    review: "Not a lot of flavor.",
     dish_id: 9,
     user_id: null,
   },
   {
     rating: 5,
-    review: "Best kung pao in town!",
+    review: "Best I've ever had!",
     dish_id: 1,
     user_id: null,
   },
@@ -129,7 +129,7 @@ const dishReviewsData = [
   },
   {
     rating: 5,
-    review: "Delicious! Filling but not super heavy!",
+    review: "Delicious!",
     dish_id: 4,
     user_id: null,
   },
@@ -160,7 +160,7 @@ const dishReviewsData = [
   },
   {
     rating: 2,
-    review: "Amazing!",
+    review: "Too salty",
     dish_id: 9,
     user_id: null,
   },
@@ -172,7 +172,7 @@ const dishReviewsData = [
   },
   {
     rating: 1,
-    review: "So good!",
+    review: "Way too spicy",
     dish_id: 2,
     user_id: null,
   },
@@ -208,7 +208,7 @@ const dishReviewsData = [
   },
   {
     rating: 5,
-    review: "o good!",
+    review: "So good!",
     dish_id: 8,
     user_id: null,
   },
@@ -261,8 +261,8 @@ const dishReviewsData = [
     user_id: null,
   },
   {
-    rating: 5,
-    review: "Such a good salad!",
+    rating: 3,
+    review: "Good",
     dish_id: 8,
     user_id: null,
   },
@@ -346,7 +346,7 @@ const dishReviewsData = [
   },
   {
     rating: 5,
-    review: "Delicious! Filling but not super heavy!",
+    review: "Delicious!",
     dish_id: 4,
     user_id: null,
   },

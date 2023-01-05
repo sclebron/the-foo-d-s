@@ -214,7 +214,7 @@ const dishesData = [
   },
   {
     price: 13.0,
-    name: "Watermelon Heirloom Cherry Tomato Salad",
+    name: "Penne Alla Vodka",
     image_file: "italian-food-4.jpg",
     description:
       "Cucumber, Red Onion, Cotija, Mint, Chili-Sumac, Reduced Balsamic",
