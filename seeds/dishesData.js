@@ -234,7 +234,7 @@ const dishesData = [
     restaurant_id: 11,
   },
   {
-    price: 13.0,
+    price: 12.0,
     name: "Cacio E Pepe",
     image_file: "cacio.jpg",
     description: "Pasta tossed with butter, black pepper, and pecorino romano cheese.",
