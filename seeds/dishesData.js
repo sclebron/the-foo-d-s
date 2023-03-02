@@ -136,7 +136,7 @@ const dishesData = [
     restaurant_id: 7,
   },
   {
-    price: 8.0,
+    price: 7.0,
     name: "Chips and Guacamole",
     image_file: "guacamole.jpg",
     description: "Chips with guacamole.",
