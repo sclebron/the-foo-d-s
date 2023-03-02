@@ -129,7 +129,7 @@ const dishesData = [
     restaurant_id: 6,
   },
   {
-    price: 11.0,
+    price: 10.0,
     name: "Quesadilla",
     image_file: "quesadilla.jpg",
     description: "Chicken and cheese quesadilla.",
