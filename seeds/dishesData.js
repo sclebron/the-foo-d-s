@@ -241,7 +241,7 @@ const dishesData = [
     restaurant_id: 12,
   },
   {
-    price: 11.0,
+    price: 10.0,
     name: "Meatballs",
     image_file: "meatballs.jpg",
     description: "Ground beef meatballs in tomato sauce.",
