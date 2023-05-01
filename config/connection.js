@@ -9,9 +9,9 @@ const sequelize = new Sequelize(
       'root',
       'password',
       {
-        host: "localhost",
+        host: "127.0.0.1",
         dialect: "mysql",
-        port: 3000,
+        // port: 3306,
       }
 );
 
