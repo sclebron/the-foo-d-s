@@ -7,11 +7,11 @@ const sequelize = new Sequelize(
       // process.env.DB_PASSWORD,
       'foo_ds_db',
       'root',
-      'Tigers',
+      'password',
       {
         host: "localhost",
         dialect: "mysql",
-        port: 3306,
+        port: 3000,
       }
 );
 
