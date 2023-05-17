@@ -23,6 +23,9 @@ Our task is to create a simple application that allows a user to provide a revie
 
 This application will use custom API databases to provide updated user reviews.
 
+<img width="1423" alt="Screenshot 2023-05-17 at 11 30 41 AM" src="https://github.com/sclebron/the-foo-d-s/assets/109631700/3d17c314-c47c-4a46-8c4e-946732656aa3">
+
+
 ## Installation
 
 npm install
