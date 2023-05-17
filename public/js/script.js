@@ -76,7 +76,7 @@ $("#cardholder").on("click", ".card", function (e) {
 //---------------------------
 //add event listener to the nav bar on the top of the page to take the selected genre and generate the cards within that genre
 
-submit.on("click", function (event) {
+genrePicker.on("click", function (event) {
   event.preventDefault();
   var searchInput = navSelector.val();
 
