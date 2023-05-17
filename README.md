@@ -106,7 +106,7 @@ https://github.com/timberhead/the-foo-d-s
 
 ## Deployed Links:
 
-Railway URL: https://the-foo-d-s-production.up.railway.app/
+Demo video: https://drive.google.com/file/d/18euNNTHnG0AEJiM52y-V3KS3Oz15tkUj/view
 
 ## Credits
 
